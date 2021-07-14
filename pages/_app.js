@@ -10,7 +10,10 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     font-family:sans-serif;
-    background-color: #D9E6F6;
+    background: url('https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png');
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    height: 890px;
   };
   #__next{
     display: flex;
